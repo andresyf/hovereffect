@@ -1,8 +1,8 @@
 import React from 'react';
 import image from './images/card2.png';
-import './App.css';
+import './Hover.css';
 
-function App() {
+function Hover() {
   return (
     <div className="App">
       <header className="App-header">
@@ -17,4 +17,4 @@ function App() {
   );
 }
 
-export default App;
+export default Hover;

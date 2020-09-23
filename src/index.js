@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import Hover from './Hover';
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Hover />
   </React.StrictMode>,
   document.getElementById('root')
 );
